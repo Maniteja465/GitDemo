@@ -29,7 +29,20 @@ public class SeleniumTest {
 		System.out.println("I am in selenium2");
 		
 	}
-	
+	@Test
+	public void seleniumee3()
+	{
+		
+		System.out.println("I am in selenium2");
+		
+	}
+	@Test
+	public void seleniueeem3()
+	{
+		
+		System.out.println("I am in selenium2");
+		
+	}
 }
 
 
