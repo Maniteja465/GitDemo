@@ -22,6 +22,13 @@ public class SeleniumTest {
 		System.out.println("I am in selenium2");
 		
 	}
+	@Test
+	public void selenium3()
+	{
+		
+		System.out.println("I am in selenium2");
+		
+	}
 	
 }
 

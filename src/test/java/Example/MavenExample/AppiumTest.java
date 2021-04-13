@@ -20,6 +20,13 @@ public class AppiumTest {
 		System.out.println("I am in Appium2");
 		
 	}
+	@Test
+	public void Appium3()
+	{
+		
+		System.out.println("I am in Appium2");
+		
+	}
 	
 }
 
